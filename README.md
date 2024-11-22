@@ -47,6 +47,6 @@ The core functionality includes user login, token-based authentication, and a de
 4. Test the server API directly using Insomnia or similar tools.
 ## Deployment
 The application is deployed on [Render](https://render.com).
-- **Live Application URL**: [Task Vault Live](<>)
-- **GitHub Repository**: [Task Vault GitHub](https://github.com/Elementary-my-dear-Watson/Donezo)
+- **Live Application URL**: [Donezo Live](<>)
+- **GitHub Repository**: [Donezo GitHub](https://github.com/Elementary-my-dear-Watson/Donezo)
 Refer to the [Render Documentation](https://render.com/docs) for guidance on setting environment variables and deployment.
